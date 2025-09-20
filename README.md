@@ -1,6 +1,6 @@
 # 🔍 Detector de COH-PIAH - Análise de Estilo Literário
 
-screenshot.png
+![Screenshot do Projeto](images/screenshot.png)
 
 Projeto acadêmico desenvolvido para o curso **"Introdução à Ciência da Computação com Python"** do Prof. Fabio Kon (IME-USP) na plataforma **Coursera**.  
 
